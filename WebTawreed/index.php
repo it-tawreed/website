@@ -33,7 +33,7 @@
   <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/1/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/1/util.js"></script></head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Tawreed</title>
+  <title>Tawreed | COMING SOON</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -60,7 +60,7 @@
 
       <h1>Tawreed</h1>
       <h2>We're working hard to improve our website and we'll ready to launch after</h2>
-      <div class="countdown d-flex justify-content-center" data-count="2024/3/8">
+      <div class="countdown d-flex justify-content-center" data-count="2024/3/12">
         <div>
           <h3>%d</h3>
           <h4>Days</h4>
